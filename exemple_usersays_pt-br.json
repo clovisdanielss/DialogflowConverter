@@ -1,0 +1,134 @@
+[
+  {
+    "id": "818d3d8c-5d0f-4362-b79c-0c2a57d8fb12",
+    "data": [
+      {
+        "text": "sim",
+        "meta": "@confirmar",
+        "alias": "confirmar",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "2c361eda-c984-4534-883e-14e5381ad88a",
+    "data": [
+      {
+        "text": "já",
+        "meta": "@confirmar",
+        "alias": "confirmar",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "96c422ee-b2c5-431b-ba7f-11a1ae87ba62",
+    "data": [
+      {
+        "text": "confirmado",
+        "meta": "@confirmar",
+        "alias": "confirmar",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "38980a56-89dd-47d7-9fbc-94aecb75bb5f",
+    "data": [
+      {
+        "text": "beleza",
+        "meta": "@confirmar",
+        "alias": "confirmar",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "f42b4666-e93f-431b-9558-963afbe10d62",
+    "data": [
+      {
+        "text": "eu ",
+        "userDefined": false
+      },
+      {
+        "text": "aceito",
+        "meta": "@confirmar",
+        "alias": "confirmar",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "00275631-de6a-4787-8148-9fcd1dc42219",
+    "data": [
+      {
+        "text": "concordo",
+        "meta": "@confirmar",
+        "alias": "confirmar",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "cbe1f156-4058-4d30-9b51-a3dd90fa1092",
+    "data": [
+      {
+        "text": "é ",
+        "userDefined": false
+      },
+      {
+        "text": "isso",
+        "meta": "@confirmar",
+        "alias": "confirmar",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "d85b5cfa-e3ad-4514-a535-bf393e0fae1c",
+    "data": [
+      {
+        "text": "isso",
+        "meta": "@confirmar",
+        "alias": "confirmar",
+        "userDefined": true
+      },
+      {
+        "text": " mesmo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  }
+]
